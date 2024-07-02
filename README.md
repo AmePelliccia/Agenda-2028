@@ -61,17 +61,6 @@ Desarrollar e implementar soluciones innovadoras que:
 
 ---
 
-Este README refleja tus objetivos y tu visión personal, sin hacer mención a Capgemini. Puedes utilizarlo en tu repositorio o compartirlo con potenciales colaboradores y patrocinadores.### ### - ### ### ### ### 
-#
-
-AmePelliccia
-
-now
-History
-
-
-195 lines (156 loc) · 8.78 KB
-File metadata and controls
 * Preview
 * Code
 * Blame
